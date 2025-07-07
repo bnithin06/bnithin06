@@ -1,4 +1,4 @@
-## Hi there 👋,I'm Nithin Begari
+## Hi there 👋
 
 
 <!--
